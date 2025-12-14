@@ -1,6 +1,6 @@
 # 🎥 Ultimate X (Twitter) Video Downloader - Bulk & Ad-Free
 
-[![Powered By](https://img.shields.io/badge/Powered%20By-Auto%20Scripts%20Marketing-blueviolet.svg)](#)
+[![Powered By](https://img.shields.io/badge/Kent333-blueviolet.svg)](#)
 
 > **Stop struggling with sketchy websites.** Download X (Twitter) videos in bulk, highest quality, and 100% safe using Google Colab.
 
@@ -29,6 +29,7 @@ Most online video downloaders are filled with pop-up ads, malware risks, and slo
 
 * A Google Account (to use Google Colab).
 * No coding knowledge required!
+
 
 
 
