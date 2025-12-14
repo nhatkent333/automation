@@ -6,7 +6,7 @@
 
 > **Stop struggling with sketchy websites.** Download X (Twitter) videos in bulk, highest quality, and 100% safe using Google Colab.
 
-![Project Cover](https://cdn.buymeacoffee.com/uploads/project_updates/2023/...).png)
+![Project Cover](feature-image.jpg)
 *(Note: Upload the image created earlier to your repo and link it here)*
 
 ## 🚀 Why Use This Tool?
@@ -51,4 +51,5 @@ This tool utilizes powerful Python libraries:
 * **Google Colab**: For the execution environment.
 
 ---
+
 **Powered by [Auto Scripts Marketing]**
