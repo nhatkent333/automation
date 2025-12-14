@@ -5,7 +5,6 @@
 > **Stop struggling with sketchy websites.** Download X (Twitter) videos in bulk, highest quality, and 100% safe using Google Colab.
 
 ![Project Cover](feature-image.jpg)
-*(Note: Upload the image created earlier to your repo and link it here)*
 
 ## 🚀 Why Use This Tool?
 
@@ -29,5 +28,9 @@ Most online video downloaders are filled with pop-up ads, malware risks, and slo
 
 * A Google Account (to use Google Colab).
 * No coding knowledge required!
+
+## Download Google Colab ipynb source code:
+https://buymeacoffee.com/kent333/e/488910
+
 
 
