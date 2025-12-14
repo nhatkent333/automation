@@ -18,7 +18,8 @@ Most online video downloaders are filled with pop-up ads, malware risks, and slo
 
 ## 🛠️ How to Use (3 Steps)
 
-1.  **Click the "Open in Colab" badge** above 👆.
+1.  **Download Google Colab ipynb source code:** https://buymeacoffee.com/kent333/e/488910.
+2. **Upload file ipynb to Google Colab**
 2.  Click the **Play button (▶️)** to initialize the tool.
 3.  **Paste your links** (one per line) and hit **Download**.
 
@@ -29,8 +30,6 @@ Most online video downloaders are filled with pop-up ads, malware risks, and slo
 * A Google Account (to use Google Colab).
 * No coding knowledge required!
 
-## Download Google Colab ipynb source code:
-https://buymeacoffee.com/kent333/e/488910
 
 
 
