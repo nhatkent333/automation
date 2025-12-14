@@ -32,24 +32,3 @@ Most online video downloaders are filled with pop-up ads, malware risks, and slo
 * A Google Account (to use Google Colab).
 * No coding knowledge required!
 
-## ☕ Support the Project
-
-This tool is free to use, but maintaining it takes time. If this script saved you time or helped you avoid ad-filled websites, please consider buying me a coffee!
-
-You can also purchase the **Premium Pack** on my shop which includes:
-* 📖 A PDF Guide for beginners.
-* 🆘 Priority Support.
-* 🔔 Updates on new features.
-
-<a href="https://www.buymeacoffee.com/[YOUR_BMC_USERNAME]" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-## 📜 Technical Details
-
-This tool utilizes powerful Python libraries:
-* **yt-dlp**: For robust media extraction.
-* **ipywidgets**: For the interactive user interface.
-* **Google Colab**: For the execution environment.
-
----
-
-**Powered by [Auto Scripts Marketing]**
